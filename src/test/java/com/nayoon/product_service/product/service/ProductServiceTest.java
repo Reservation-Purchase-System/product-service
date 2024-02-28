@@ -1,4 +1,4 @@
-package com.nayoon.ecommerce_service.product.service;
+package com.nayoon.product_service.product.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -15,7 +15,6 @@ import com.nayoon.product_service.product.controller.dto.request.ProductCreateRe
 import com.nayoon.product_service.product.controller.dto.request.ProductUpdateRequestDto;
 import com.nayoon.product_service.product.entity.Product;
 import com.nayoon.product_service.product.repository.ProductRepository;
-import com.nayoon.product_service.product.service.ProductService;
 import com.nayoon.product_service.product.service.dto.ProductDto;
 import java.util.Arrays;
 import java.util.List;

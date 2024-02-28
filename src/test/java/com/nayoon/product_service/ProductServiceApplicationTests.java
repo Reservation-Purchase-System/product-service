@@ -1,4 +1,4 @@
-package com.nayoon.ecommerce_service;
+package com.nayoon.product_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
